@@ -1,0 +1,31 @@
+﻿<Properties StartupItem="iOS/chatmessenger.iOS.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone6s.9.2" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/Chat/bubbleChat.cs">
+    <Files>
+      <File FileName="chatmessenger/ChatPage.cs" Line="22" Column="24" />
+      <File FileName="iOS/Chat/bubbleChat.cs" Line="163" Column="4" />
+      <File FileName="iOS/Chat/MessageFactory.cs" Line="57" Column="1" />
+      <File FileName="chatmessenger/initPage.cs" Line="12" Column="57" />
+      <File FileName="chatmessenger/modalBasePage.cs" Line="13" Column="91" />
+      <File FileName="iOS/Main.cs" Line="17" Column="1" />
+      <File FileName="../whosdown/iOS/DependencyServices/PhoneService.cs" Line="34" Column="65" />
+      <File FileName="chatmessenger/App.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="chatmessenger" expanded="True" selected="True">
+            <Node name="chatmessenger" expanded="True" />
+            <Node name="chatmessenger.iOS" expanded="True">
+              <Node name="Chat" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<component format="1" id="jsqmessagesviewcontroller">
+  <name>JSQMessagesViewController</name>
+  <publisher>Xamarin Inc.</publisher>
+  <publisher-url>http://xamarin.com</publisher-url>
+  <docs-url>http://cocoadocs.org/docsets/JSQMessagesViewController/7.0.0/</docs-url>
+  <version>7.2.0</version>
+  <summary>An elegant messages UI library for iOS</summary>
+  <screenshots>
+    <img src="screenshots/screenshot1.png" title="screenshot1" />
+  </screenshots>
+  <samples>
+    <sample id="XamarinChat">
+      <name>Xamarin Chat Sample</name>
+      <summary>Xamarin Chat Sample</summary>
+    </sample>
+  </samples>
+</component>

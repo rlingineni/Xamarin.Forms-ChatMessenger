@@ -1,0 +1,39 @@
+# Version: 9.4.0.0 (xcode7.2: 7322991)
+# [first argument, ignore] # /Users/Raviteja/Documents/Projects/Xamarin/chatmessenger/Components/jsqmessagesviewcontroller-7.2.0/samples/XamarinChat/XamarinChat/mtouch.exe
+/Library/Frameworks/Xamarin.iOS.framework/Versions/9.4.0.0/bin/mtouch \
+	--cache \
+	/Users/Raviteja/Documents/Projects/Xamarin/chatmessenger/Components/jsqmessagesviewcontroller-7.2.0/samples/XamarinChat/XamarinChat/obj/iPhoneSimulator/Debug/mtouch-cache \
+	--sim \
+	/Users/Raviteja/Documents/Projects/Xamarin/chatmessenger/Components/jsqmessagesviewcontroller-7.2.0/samples/XamarinChat/XamarinChat/bin/iPhoneSimulator/Debug/XamarinChat.app \
+	--executable \
+	XamarinChat \
+	--debug \
+	--profiling \
+	--nolink \
+	--sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--sdk \
+	9.2 \
+	--targetver \
+	7.1 \
+	--abi=i386 \
+	--symbollist \
+	/Users/Raviteja/Documents/Projects/Xamarin/chatmessenger/Components/jsqmessagesviewcontroller-7.2.0/samples/XamarinChat/XamarinChat/obj/iPhoneSimulator/Debug/mtouch-symbols.list \
+	--dsym=no \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Xml.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll \
+	-r \
+	/Users/Raviteja/Documents/Projects/Xamarin/chatmessenger/Components/jsqmessagesviewcontroller-7.2.0/lib/ios-unified/JSQMessagesViewController.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
+	-r \
+	/Users/Raviteja/Documents/Projects/Xamarin/chatmessenger/Components/jsqmessagesviewcontroller-7.2.0/lib/ios-unified/JSQMessagesViewController.dll \
+	--target-framework \
+	"Xamarin.iOS,v1.0" \
+	/Users/Raviteja/Documents/Projects/Xamarin/chatmessenger/Components/jsqmessagesviewcontroller-7.2.0/samples/XamarinChat/XamarinChat/bin/iPhoneSimulator/Debug//XamarinChat.exe \
